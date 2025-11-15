@@ -1,0 +1,146 @@
+[02:45:26] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.18.0
+[02:45:27] [main/INFO]: Loading 45 mods:
+	- fabric-api 0.92.6+1.20.1
+	   |-- fabric-api-base 0.4.32+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.37+1802ada577
+	   |-- fabric-biome-api-v1 13.0.14+1802ada577
+	   |-- fabric-block-api-v1 1.0.12+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.3+924f046a77
+	   |-- fabric-blockrenderlayer-v1 1.1.42+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.3+1802ada577
+	   |-- fabric-command-api-v1 1.2.35+f71b366f77
+	   |-- fabric-command-api-v2 2.2.14+1802ada577
+	   |-- fabric-commands-v0 0.2.52+df3654b377
+	   |-- fabric-containers-v0 0.1.67+df3654b377
+	   |-- fabric-content-registries-v0 4.0.13+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.6+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.20+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.2+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.7+1802ada577
+	   |-- fabric-dimensions-v1 2.1.55+1802ada577
+	   |-- fabric-entity-events-v1 1.6.1+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.5+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.64+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.41+1802ada577
+	   |-- fabric-item-api-v1 2.1.29+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.14+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.38+1802ada577
+	   |-- fabric-keybindings-v0 0.2.36+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.23+1802ada577
+	   |-- fabric-loot-api-v2 1.2.3+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.47+9e7660c677
+	   |-- fabric-message-api-v1 5.1.10+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.52+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.4+1802ada577
+	   |-- fabric-models-v0 0.4.3+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.14+a158aa0477
+	   |-- fabric-networking-v0 0.3.54+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.5+e35120df77
+	   |-- fabric-particles-v1 1.1.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.24+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.6+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.2+1802ada577
+	   |-- fabric-renderer-indigo 1.5.3+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.47+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.29+1802ada577
+	   |-- fabric-rendering-v0 1.1.50+df3654b377
+	   |-- fabric-rendering-v1 3.0.9+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.9+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.12+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.9+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.33+1802ada577
+	   |-- fabric-sound-api-v1 1.0.14+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.6+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.2+1802ada577
+	- fabricloader 0.18.0
+	   \-- mixinextras 0.5.0
+	- java 17
+	- lucky 1.20.1-13.0
+	- minecraft 1.20.1
+[02:45:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Daniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:45:28] [main/INFO]: Compatibility level set to JAVA_16
+[02:45:28] [main/INFO]: Compatibility level set to JAVA_17
+[02:45:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[02:45:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:45:37] [main/INFO]: Loaded 7 recipes
+[02:45:37] [main/INFO]: Loaded 1271 advancements
+[02:45:38] [main/INFO]: Applied 64 biome modifications to 64 of 64 new biomes in 6.658 ms
+[02:45:38] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:45:38] [Server thread/INFO]: Loading properties
+[02:45:38] [Server thread/INFO]: Default game type: SURVIVAL
+[02:45:38] [Server thread/INFO]: Generating keypair
+[02:45:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:45:38] [Server thread/INFO]: Using epoll channel type
+[02:45:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:45:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:45:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:45:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:45:38] [Server thread/INFO]: Preparing level "world"
+[02:45:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:45:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:45:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:45:41] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[02:45:41] [Worker-Main-3/INFO]: Preparing spawn area: 74%
+[02:45:42] [Server thread/INFO]: Time elapsed: 3163 ms
+[02:45:42] [Server thread/INFO]: Done (3.303s)! For help, type "help"
+[02:46:55] [Server thread/INFO]: Daniel_032319[/100.97.213.113:51519] logged in with entity id 5 at (0.5919862355882833, 65.0, 0.29211781612423604)
+[02:46:55] [Server thread/INFO]: Daniel_032319 joined the game
+[02:46:57] [Server thread/INFO]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[02:46:57] [Server thread/INFO]: Daniel_032319 has made the advancement [Ice Bucket Challenge]
+[02:46:58] [Server thread/INFO]: Chosen Lucky Drop: group:#rand(1,3):(ID=skeleton_skull;ID=wither_skeleton_skull;ID=zombie_head;ID=player_head;ID=creeper_head)@luck=0
+[02:46:59] [Server thread/INFO]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$bYour wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag='#'randFireworksRocket)),amount=20,posY='#'bPosY+3,posOffset='#'circleOffset(2);ID=gold_ingot,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=diamond,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=emerald,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=lapis_lazuli,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=2
+[02:46:59] [Server thread/INFO]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0
+[02:47:00] [Server thread/INFO]: Chosen Lucky Drop: group(ID=pumpkin,amount=#rand(8,16);ID=jack_o_lantern,amount=#rand(8,16))@luck=0
+[02:47:01] [Server thread/INFO]: Chosen Lucky Drop: type=entity,ID=villager,NBTTag=(VillagerData=(level=3,profession=toolsmith,type=jungle),Offers=(Recipes=[(buy=(id=diamond,Count=#rand(10,15)),sell=(id=diamond_shovel,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Shovel",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(15,20)),sell=(id=diamond_pickaxe,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Pickaxe",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(15,20)),sell=(id=diamond_axe,Count=1,tag=(Enchantments=#luckyAxeEnchantments,display=(Name=#jsonStr(text="Hero's Axe",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(10,15)),sell=(id=diamond_hoe,Count=1,tag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Hoe",color=blue,bold=true)))),maxUses=1)]),CustomName=#jsonStr(text="Hero Villager",color=blue,bold=true),CustomNameVisible=true)@luck=1
+[02:47:01] [Server thread/INFO]: Chosen Lucky Drop: ID=#randList(potion,splash_potion),NBTTag=(Potion=#randPotion),amount=#rand(4,8)@luck=1
+[02:47:01] [Server thread/INFO]: Chosen Lucky Drop: group(type=message,ID="§bYour wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag=#randFireworksRocket)),amount=20,posY=#bPosY+3,posOffset=#circleOffset(2);ID=gold_ingot,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=diamond,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=emerald,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=lapis_lazuli,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2))
+[02:47:02] [Server thread/INFO]: Chosen Lucky Drop: group(ID=quartz_slab,amount=#rand(4,8);ID=nether_quartz_ore,amount=#rand(16,32);ID=quartz_block,amount=#rand(4,8);ID=quartz_block,damage=1,amount=#rand(4,8);ID=quartz_block,damage=2,amount=#rand(4,8);ID=quartz_stairs,amount=#rand(4,8);ID=quartz,amount=#rand(24,32);type=particle,ID=splashpotion,potion="invisibility")@luck=1
+[02:47:03] [Server thread/INFO]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[02:47:03] [Server thread/INFO]: Chosen Lucky Drop: type=entity,ID=sheep,NBTTag=(CustomName=#jsonStr(text="$cM$6r. $eR$aa$2i$bn$3b$5o$dw"),CustomNameVisible=true,Color=#rand(0,15)),posOffset=#circleOffset(4),amount=16@luck=1
+[02:47:04] [Server thread/INFO]: Chosen Lucky Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/simple_dungeon"))@luck=1
+[02:47:05] [Server thread/INFO]: Chosen Lucky Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=salmon,amount=#rand(8,16);ID=cooked_salmon,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
+[02:47:06] [Server thread/INFO]: Chosen Lucky Drop: group:1:(type=structure,ID=lucky_choice_left,rotation=#pDirect;type=structure,ID=lucky_choice_right,rotation=#pDirect)@luck=0
+[02:47:06] [Server thread/INFO]: Chosen Lucky Drop: group(ID=golden_helmet;ID=golden_chestplate;ID=golden_leggings;ID=golden_boots;ID=golden_horse_armor)@luck=1
+[02:47:07] [Server thread/INFO]: Chosen Lucky Drop: group(type=entity,ID=rabbit,amount=#rand(5,10),posOffset=#circleOffset(3),NBTTag=(RabbitType=#rand(0,5));type=particle,ID="heart",size=(2,0,2),particleAmount=20)@luck=1
+[02:47:08] [Server thread/INFO]: Chosen Lucky Drop: group(type=entity,ID=wolf,amount=#rand(5,10),posOffset=#circleOffset(3),NBTTag=(CollarColor=#rand(0,15),Owner=#pUUIDArray,Sitting=true);type=particle,ID="heart",size=(2,0,2),particleAmount=20)@luck=1
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/336, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=3.50, y=-164.80, z=-1.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/337, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=-3.50, y=-164.80, z=-0.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/338, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=1.50, y=-164.80, z=4.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/339, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=-0.50, y=-164.80, z=-3.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/340, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=2.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/341, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=2.50, y=-164.80, z=4.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/342, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=2.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/343, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=-3.50, y=-164.80, z=0.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/344, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=0.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/345, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=1.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/346, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=-2.50, y=-164.80, z=3.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/347, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=0.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/348, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=0.50, y=-164.80, z=4.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/349, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=-2.50, y=-164.80, z=-1.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/350, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=4.50, y=-164.80, z=0.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Named entity class_1472['§cM§6r. §eR§aa§2i§bn§3b§5o§dw'/351, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=3.50, y=-164.80, z=-2.50] died: §cM§6r. §eR§aa§2i§bn§3b§5o§dw fell out of the world
+[02:47:08] [Server thread/INFO]: Chosen Lucky Drop: type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15)@chance=1.5@luck=2
+[02:47:09] [Server thread/INFO]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0
+[02:47:10] [Server thread/INFO]: Chosen Lucky Drop: ID=#randList(potion,splash_potion),NBTTag=(Potion=#randPotion),amount=#rand(4,8)@luck=1
+[02:47:11] [Server thread/INFO]: Chosen Lucky Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/shipwreck_map"))@luck=1
+[02:47:11] [Server thread/INFO]: Villager class_1646['Hero Villager'/116, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=0.50, y=63.00, z=0.30] died, message: 'Hero Villager suffocated in a wall'
+[02:47:11] [Server thread/INFO]: Named entity class_1646['Hero Villager'/116, l='ServerLevel[100 Dias Oneblock Lucky Block]', x=0.50, y=63.00, z=0.30] died: Hero Villager suffocated in a wall
+[02:47:11] [Server thread/INFO]: Chosen Lucky Drop: group(ID=jukebox;ID=#randList(music_disc_11,music_disc_13,music_disc_blocks,music_disc_chirp,music_disc_far,music_disc_mall,music_disc_mellohi,music_disc_stal,music_disc_strad,music_disc_wait,music_disc_ward),amount=#rand(1,3))@luck=1
+[02:47:12] [Server thread/INFO]: Chosen Lucky Drop: group:1:(ID=clock,NBTTag=(display=(Name=#jsonStr(text="You're wasting your time")));ID=tropical_fish,NBTTag=(display=(Name=#jsonStr(text="I'm funny")));ID=pufferfish,NBTTag=(display=(Name=#jsonStr(text="Oooooh!"))))@luck=-1
+[02:47:13] [Server thread/INFO]: Chosen Lucky Drop: group(type=entity,ID=egg,NBTTag=(Motion=#randLaunchMotion(0.6,15)),amount=40;type=entity,ID=item,NBTTag=(Item=(id=diamond,Count=1),Motion=#randLaunchMotion(0.7,18)),amount=20)@luck=2
+[02:47:13] [Server thread/INFO]: Daniel_032319 has made the advancement [Diamonds!]
+[02:47:14] [Server thread/INFO]: Chosen Lucky Drop: group:1:(type=structure,ID=lucky_choice_left,rotation=#pDirect;type=structure,ID=lucky_choice_right,rotation=#pDirect)@luck=0
+[02:47:14] [Server thread/INFO]: Chosen Lucky Drop: group(ID=bookshelf,amount=#rand(6,12);ID=book,amount=#rand(8,16))@luck=0
+[02:47:15] [Server thread/INFO]: Chosen Lucky Drop: type=structure,ID=water_cage,pos=#pPos@luck=-2
+[02:47:17] [Server thread/INFO]: Chosen Lucky Drop: group(ID=quartz_slab,amount=#rand(4,8);ID=nether_quartz_ore,amount=#rand(16,32);ID=quartz_block,amount=#rand(4,8);ID=quartz_block,damage=1,amount=#rand(4,8);ID=quartz_block,damage=2,amount=#rand(4,8);ID=quartz_stairs,amount=#rand(4,8);ID=quartz,amount=#rand(24,32);type=particle,ID=splashpotion,potion="invisibility")@luck=1
+[02:47:19] [Server thread/INFO]: Chosen Lucky Drop: group(ID=quartz_slab,amount=#rand(4,8);ID=nether_quartz_ore,amount=#rand(16,32);ID=quartz_block,amount=#rand(4,8);ID=quartz_block,damage=1,amount=#rand(4,8);ID=quartz_block,damage=2,amount=#rand(4,8);ID=quartz_stairs,amount=#rand(4,8);ID=quartz,amount=#rand(24,32);type=particle,ID=splashpotion,potion="invisibility")@luck=1
+[02:47:21] [Server thread/INFO]: Chosen Lucky Drop: ID=gold_ingot,amount=#rand(8,16)@luck=1
+[02:47:23] [Server thread/INFO]: Chosen Lucky Drop: group:#rand(1,3):(ID=skeleton_skull;ID=wither_skeleton_skull;ID=zombie_head;ID=player_head;ID=creeper_head)@luck=0
+[02:47:25] [Server thread/INFO]: Chosen Lucky Drop: ID=sponge@luck=0
+[02:47:28] [Server thread/INFO]: Chosen Lucky Drop: type=structure,ID=giant_lucky_block_good,rotation=#pDirect@luck=2
+[02:47:45] [Server thread/INFO]: Daniel_032319 lost connection: Disconnected
+[02:47:45] [Server thread/INFO]: Daniel_032319 left the game
